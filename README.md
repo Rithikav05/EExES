@@ -2,7 +2,7 @@
 
 Team Members:
 Rithika Vinod
-Riya MOre
+Riya More
 S Anannya
 Supreeth B.L.
 Vasishta M
