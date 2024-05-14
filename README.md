@@ -1,12 +1,6 @@
 # EExES
 
-Team Members:
-Rithika Vinod
-Riya More
-S Anannya
-Supreeth B.L.
-Vasishta M
-Mudit Sharma
+Team Members: Rithika Vinod, Riya More, S Anannya, Supreeth B.L., Vasishta M, Mudit Sharma
 
 Domain: Robotics
 
